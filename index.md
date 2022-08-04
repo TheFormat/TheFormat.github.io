@@ -3,11 +3,22 @@ layout: home
 author_profile: true
 title: "그러니까 이게 제목이고"
 ---
+
+<br/>
+<br/>
+<br/>
+
 여기 문서의 큰제목
 ===
 
+<br/>
+<br/>
+
 여기는 문서의 작은제목
 ---
+
+<br/>
+<br/>
 
 # 여기에
 ## 내용을
