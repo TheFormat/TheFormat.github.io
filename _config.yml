@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "DongHyo_Lee, Freddy, Ragtag, TheFormat"
-  avatar           : "/내 PC/바탕화면/githubavatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "- 고려대학교(KR Univ)<br/> ㄴ 자랑할게 이거밖에 없는 무식이"
   location         : "Daegu, Korea"
   email            : "freddy1109@naver.com"
