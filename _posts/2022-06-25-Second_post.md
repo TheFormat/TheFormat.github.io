@@ -7,6 +7,9 @@ categories:
 tags:
   - txt
 last_modified_at: 2022-06-25T20:24:00
+
+header :
+  teaser : assets/images/myplan.png
 ---
 
 두번째 글이다.<br/>
