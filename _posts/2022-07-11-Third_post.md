@@ -7,7 +7,8 @@ categories:
 tags:
   - txt
   - Hamilton
-
+header :
+  teaser : /assets/images/Hamilton.png
 ---
 
 뮤지컬 해밀턴은 내가 2016년에 처음 들었던 뮤지컬이자, 내가 뮤지컬과 영어에 대한 관심이 증폭되었던 계기이다.<br/>
