@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -25,7 +25,7 @@ url                      : https://TheFormat.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : TheFormat/TheFormat.github.io
 teaser                   : "/assets/images/githubavatar.png " # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/githubavatar.png " # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/Hyo.png " # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "masthead 타이틀은 여기에"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
