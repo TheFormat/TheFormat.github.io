@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "TheFormat blog"
+title                    : "Messed up brain blog"
 title_separator          : "-"
-subtitle                 : "이게 사이트 태그라인?"
+subtitle                 : "잡생각들은 여기로"
 name                     : "TheFormat"
-description              : "Me wanna make blog."
+description              : "Every thoughts in my brain goes here."
 url                      : https://TheFormat.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : TheFormat/TheFormat.github.io
 teaser                   : "/assets/images/githubavatar.png " # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/Hyo.png " # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "masthead 타이틀은 여기에"
+masthead_title           : "Miscellaneous thoughts in my brain"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "DongHyo_Lee, Freddy, Ragtag, TheFormat"
   avatar           : "/assets/images/githubavatar.png " # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "- 고려대학교(KR Univ)<br/> ㄴ 자랑할게 이거밖에 없는 무식이"
+  bio              : "- 고려대학교(KR Univ)"
   location         : "Daegu, Korea"
   email            : "freddy1109@naver.com"
   links:
@@ -125,7 +125,7 @@ footer:
       url: "https://github.com/TheFormat"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/moving.hyo"
+      url: "https://instagram.com/freddy.hyo"
 
 
 # Reading Files
