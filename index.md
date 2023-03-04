@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: "그러니까 이게 제목이고"
+title: "Welcome to my un-cleaned brain!"
 ---
 
 <br/>
